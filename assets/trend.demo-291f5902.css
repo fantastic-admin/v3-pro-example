@@ -1,0 +1,1 @@
+.trend[data-v-2e9c67e2]{display:flex;align-items:center;transition:var(--el-transition-color)}.trend.up[data-v-2e9c67e2]{color:var(--el-color-success)}.trend.down[data-v-2e9c67e2]{color:var(--el-color-danger)}.trend.down .icon[data-v-2e9c67e2]{transform:rotate(180deg)}.trend .icon[data-v-2e9c67e2]{margin-left:5px;transition:transform .3s}

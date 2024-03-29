@@ -1,0 +1,1 @@
+import{_ as t,o as c,f as _,d as e,P as a}from"./index-2063e8c9.js";const n={};function r(s,f){const o=a;return c(),_(o,{title:"注意看父级导航的图标切换",content:"通过设置父级导航路由 meta 对象里的 icon 和 activeIcon 实现图标切换效果"})}typeof e=="function"&&e(n);const i=t(n,[["render",r]]);export{i as default};

@@ -1,0 +1,1 @@
+import{_ as o,o as c,c as a,a as s,w as _,b as r,d as e,e as l}from"./index-2063e8c9.js";const t={};function f(i,p){const n=l;return c(),a("div",null,[s(n,null,{default:_(()=>[r(" 你能看到这个页面，说明你有访问权限。 ")]),_:1})])}typeof e=="function"&&e(t);const d=o(t,[["render",f]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as o,o as a,c,a as _,w as s,b as r,d as e,e as l}from"./index-2063e8c9.js";const n={};function f(p,i){const t=l;return a(),c("div",null,[_(t,null,{default:s(()=>[r(" 多级导航1 ")]),_:1})])}typeof e=="function"&&e(n);const d=o(n,[["render",f]]);export{d as default};

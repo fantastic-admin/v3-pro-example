@@ -1,0 +1,1 @@
+import{_ as c,o as t,c as _,a,d as e,P as s}from"./index-2063e8c9.js";const o={};function r(f,i){const n=s;return t(),_("div",null,[a(n,{title:"即将推出 Vue3 版本视频教程，尽请期待"})])}typeof e=="function"&&e(o);const p=c(o,[["render",r]]);export{p as default};
